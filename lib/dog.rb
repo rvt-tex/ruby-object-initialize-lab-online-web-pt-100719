@@ -11,11 +11,11 @@ class Dog
     @name
   end
   
-  def initialize(breed, mutt)
-    @breed = breed
-  end
+  #def initialize(breed, mutt)
+    #@breed = breed
+  #end
  
-  def breed=(breed, mutt)
+  def breed=(pug, mutt)
     @breed = breed
   end
  
