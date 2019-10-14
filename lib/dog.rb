@@ -24,3 +24,7 @@ class Dog
     @breed
   end 
 end 
+
+
+# in line one we creating a dog class by using (class)
+# in line two we are initializing the name and breed of the dog class, while setting a default 
